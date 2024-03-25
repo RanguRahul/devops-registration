@@ -22,6 +22,10 @@ Requiremts : CI/CD pipeline System
 Build and Deploy on Tomcat Server
 -------------------------------
 
+1. Deploy Artifacts on a Tomcat Server
+
+![image](https://github.com/RanguRahul/devops_project/assets/120587828/7e787c34-5835-40ad-89f0-dd24b8fa11d1)
+
 Setup CI/CD with GitHub, Jenkins, Maven & Tomcat.
 
 • Setup Jenkins
@@ -36,9 +40,11 @@ Setup CI/CD with GitHub, Jenkins, Maven & Tomcat.
 
 • Test the Deployment.
 
-1. Deploy Artifacts on a Tomcat Server
+
+
    
-![image](https://github.com/RanguRahul/devops_project/assets/120587828/7e787c34-5835-40ad-89f0-dd24b8fa11d1)
+   
+
 
 
 
@@ -46,6 +52,13 @@ Setup CI/CD with GitHub, Jenkins, Maven & Tomcat.
 
 Build and Deploy on docker Container
 ----------------------------------------------------------------
+
+2. Deploy Artifacts on a Container
+
+
+![image](https://github.com/RanguRahul/devops_project/assets/120587828/54d9f9b6-1cfc-45e4-99c0-89838b7c03b1)
+
+   
 
 Setup CI/CD with GitHub, Jenkins, Maven & Docker.
 
@@ -59,7 +72,8 @@ Setup CI/CD with GitHub, Jenkins, Maven & Docker.
 
 • Create CI/CD Job on Jenkins to build and deploy on container.
 
-![image](https://github.com/RanguRahul/devops_project/assets/120587828/54d9f9b6-1cfc-45e4-99c0-89838b7c03b1)
+
+
 
 
 
@@ -68,15 +82,46 @@ Setup CI/CD with GitHub, Jenkins, Maven & Docker.
 Deploy Artifacts on a Ansible Container
 ----------------------------------------------------
 
+
+
 ![image](https://github.com/RanguRahul/devops_project/assets/120587828/a0b7b239-39d3-4cf7-9aca-ad8425825e23)
+
+
+CI/CD with GitHub, Jenkins, Maven, Ansible & Docker.
+
+• Setting up the Ansible Server
+
+• Integrate Docker Host with Ansible.
+
+• Ansible playbook to create Image.
+
+• Ansible playbook to create Container.
+
+• Integrate Ansible with Jenkins.
+
+• CI/CD Job to build code on Ansible & Deploy it on docker container.
+
 
 
 
 Deploy Artifacts on a Kubernetes
 -----------------------------------------------------------------------------------
 
+
+
 ![image](https://github.com/RanguRahul/devops_project/assets/120587828/594d90df-16b3-4afe-9e3e-806f45fefcd6)
 
+CI/CD with GitHub, Jenkins, Maven, Ansible & Kubernetes.
+
+• Setting up the Kubernetes (EKS).
+
+• Write pod service and deployment manifest file.
+
+• Integrate Kubernetes with Ansible.
+
+• Ansible playbook to create deployment & service.
+
+• CI/CD Job to build code on Ansible & Deploy it on Kubernetes.
 
 
 
