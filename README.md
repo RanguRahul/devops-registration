@@ -1,8 +1,10 @@
+________________________________________________________________________________________________________________
+
+# Project to deploy a Java web application using a CI/CD pipeline involving Jenkins, Maven, Docker, Ansible and K8s.
 
 
 
-![image](https://github.com/RanguRahul/devops_project/assets/120587828/cb293b0e-fda9-42ab-928e-8ed1ad3870bc) | 
-
+![image](https://github.com/RanguRahul/devops_project/assets/120587828/cb293b0e-fda9-42ab-928e-8ed1ad3870bc) 
 
 
 
