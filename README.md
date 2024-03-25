@@ -1,4 +1,4 @@
-________________________________________________________________________________________________________________
+
 
 # Project to deploy a Java web application using a CI/CD pipeline involving Jenkins, Maven, Docker, Ansible and K8s.
 
